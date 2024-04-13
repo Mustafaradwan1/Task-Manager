@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Task-Manager/static/css/main.cc1c58fc.css",
+    "main.js": "/Task-Manager/static/js/main.66ac3824.js",
+    "static/media/text2.jpg": "/Task-Manager/static/media/text2.d2e5d5ebabad73cf3aa3.jpg",
+    "index.html": "/Task-Manager/index.html",
+    "static/media/icon-board.svg": "/Task-Manager/static/media/icon-board.29b48f5174742b4dd3a04f52d710293c.svg",
+    "static/media/logo-mobile.svg": "/Task-Manager/static/media/logo-mobile.e60c2fbc3dcefa4256e0569ffba5e523.svg",
+    "static/media/icon-vertical-ellipsis.svg": "/Task-Manager/static/media/icon-vertical-ellipsis.5c8996197d4a9dd7a7adfa20ce4abef9.svg",
+    "static/media/icon-cross.svg": "/Task-Manager/static/media/icon-cross.d4ca9e0d2a82f7ea4ae08238a42f84ed.svg",
+    "static/media/icon-chevron-down.svg": "/Task-Manager/static/media/icon-chevron-down.77595c15c9072ba0ef8a21ab5cc8c376.svg",
+    "static/media/icon-chevron-up.svg": "/Task-Manager/static/media/icon-chevron-up.6918f905519d47589a92103b48580f45.svg",
+    "main.cc1c58fc.css.map": "/Task-Manager/static/css/main.cc1c58fc.css.map",
+    "main.66ac3824.js.map": "/Task-Manager/static/js/main.66ac3824.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cc1c58fc.css",
+    "static/js/main.66ac3824.js"
+  ]
+}
